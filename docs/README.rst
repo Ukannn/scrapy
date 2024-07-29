@@ -4,7 +4,7 @@
 Scrapy documentation quick start guide
 ======================================
 
-This file provides a quick guide on how to compile the Scrapy documentation.
+This  guide on how to compile the Scrapy documentation.
 
 
 Setup the environment
@@ -26,7 +26,7 @@ from this dir::
 
     make html
 
-Documentation will be generated (in HTML format) inside the ``build/html`` dir.
+Documentatt) inside the ``build/html`` dir.
 
 
 View the documentation
