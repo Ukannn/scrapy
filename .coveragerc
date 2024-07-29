@@ -3,7 +3,7 @@ branch = true
 include = scrapy/*
 omit =
   tests/*
-disable_warnings = include-ignored
+disable_warnings = include-ignor
 
 [report]
 # https://github.com/nedbat/coveragepy/issues/831#issuecomment-517778185
