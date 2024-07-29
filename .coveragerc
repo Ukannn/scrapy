@@ -7,6 +7,6 @@ disable_warnings = include-ignor
 
 [report]
 # https://github.com/nedbat/coveragepy/issues/831#issuecomment-517778185
-exclude_lines =
+exclude_lines =asdasd
     pragma: no cover
     if TYPE_CHECKING:
